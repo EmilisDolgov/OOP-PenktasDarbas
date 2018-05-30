@@ -1,0 +1,16 @@
+Debug/
+Release/
+cmake-build-debug/
+.idea/
+*.vcxproj
+*.filters
+*.users
+*.rc
+*.aps
+*.txt
+targetver.h
+stdafx.cpp
+stdafx.h
+resource.h
+desktop.ini
+*vcxproj.user
